@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="250" viewBox="0 0 560 250" role="img" aria-label="A multi-level parking garage with colourful cars">
+  <path d="M24 210h512" stroke="#DCE7FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M76 204V48h330v156" fill="#F6F8FC" stroke="#B9CCFF" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M76 104h330M76 157h330" stroke="#B9CCFF" stroke-width="8"/>
+  <path d="M104 93V59h86v34m28 0V59h86v34m28 0V59h46v34M104 146v-34h86v34m28 0v-34h86v34m28 0v-34h46v34" fill="#19345C"/>
+  <path d="M98 196v-21l12-15h53l16 15v21z" fill="#FFC72C"/>
+  <path d="M113 164l7-12h31l11 12z" fill="#CFE7FF"/>
+  <circle cx="117" cy="196" r="8" fill="#0F1B2D"/><circle cx="162" cy="196" r="8" fill="#0F1B2D"/>
+  <path d="M228 196v-19l11-14h53l15 14v19z" fill="#FF6A5E"/>
+  <path d="M244 163l8-12h29l11 12z" fill="#DCEBFF"/>
+  <circle cx="247" cy="196" r="8" fill="#0F1B2D"/><circle cx="290" cy="196" r="8" fill="#0F1B2D"/>
+  <path d="M364 196v-20l13-16h54l17 16v20z" fill="#49C69A"/>
+  <path d="M382 163l8-12h29l12 12z" fill="#DCEBFF"/>
+  <circle cx="385" cy="196" r="8" fill="#0F1B2D"/><circle cx="432" cy="196" r="8" fill="#0F1B2D"/>
+  <path d="M455 62h62v58h-62z" rx="9" fill="#FFC72C"/>
+  <path d="M473 106V76h12c9 0 14 5 14 13s-5 13-14 13h-4v4z" fill="#0F1B2D"/>
+  <path d="M446 205l12-14 12 14" fill="none" stroke="#FFC72C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

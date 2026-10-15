@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="150" viewBox="0 0 220 150" role="img" aria-label="A friendly little parked car">
+  <ellipse cx="110" cy="127" rx="78" ry="10" fill="#E7EDF7"/>
+  <path d="M46 105V83l15-24c4-7 11-11 19-11h59c9 0 17 5 21 13l12 22v22z" fill="#1E5EFF"/>
+  <path d="M73 61l-12 21h48V57H81c-3 0-6 1-8 4zm43-4v25h48l-10-20c-2-3-5-5-9-5z" fill="#D8E8FF"/>
+  <path d="M48 87h139v18H48z" fill="#FFC72C"/>
+  <circle cx="76" cy="107" r="14" fill="#0F1B2D"/><circle cx="158" cy="107" r="14" fill="#0F1B2D"/>
+  <circle cx="76" cy="107" r="6" fill="#DCE6F4"/><circle cx="158" cy="107" r="6" fill="#DCE6F4"/>
+  <circle cx="113" cy="22" r="13" fill="#FFC72C"/>
+  <path d="M108 26c3 4 8 4 11 0" fill="none" stroke="#0F1B2D" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="109" cy="19" r="1.7" fill="#0F1B2D"/><circle cx="118" cy="19" r="1.7" fill="#0F1B2D"/>
+  <path d="M30 44h14m132 2h14" stroke="#B9CCFF" stroke-width="4" stroke-linecap="round"/>
+</svg>

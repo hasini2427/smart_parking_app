@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-label="Parking P sign">
+  <rect x="5" y="5" width="170" height="170" rx="30" fill="#1E5EFF"/>
+  <rect x="23" y="23" width="134" height="134" rx="22" fill="none" stroke="#FFFFFF" stroke-width="7"/>
+  <path d="M65 131V49h36c23 0 37 12 37 33s-14 34-37 34H86v15H65zm21-34h14c11 0 17-5 17-15s-6-14-17-14H86v29z" fill="#FFFFFF"/>
+  <circle cx="145" cy="145" r="17" fill="#FFC72C"/>
+</svg>
