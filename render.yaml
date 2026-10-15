@@ -1,0 +1,28 @@
+# Render Blueprint for the Smart Parking Streamlit app (Python runtime, not Docker).
+# Secrets use "sync: false": Render asks for their values when the Blueprint is created.
+services:
+  - type: web
+    name: smart-parking
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port ${PORT:-8501} --server.address 0.0.0.0 --server.headless true
+    envVars:
+      - key: PARKING_DB_HOST
+        sync: false
+      - key: PARKING_DB_PORT
+        sync: false
+      - key: PARKING_DB_USER
+        sync: false
+      - key: PARKING_DB_PASSWORD
+        sync: false
+      - key: PARKING_DB_NAME
+        value: smart_parking
+      - key: PARKING_DB_SSL_MODE
+        value: required
+      - key: PARKING_DB_TIME_ZONE
+        value: "+05:30"
+      - key: TZ
+        value: Asia/Kolkata
+      - key: PARKING_ALLOW_DB_RESET
+        value: "false"

@@ -1,0 +1,23 @@
+# Secrets and credentials - never commit these
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+*.crt
+*.p12
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local helpers and OS files
+*.bat
+*.log
+.DS_Store
+Thumbs.db
